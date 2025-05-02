@@ -17,23 +17,6 @@ A fun, progressive web game where your mission is to kill as many cockroaches as
 - 🪳 Cockroaches animate and die with a graphic
 - 📱 Fully responsive and mobile-friendly
 
-## 📦 Folder Structure
-
-📁 public/
-├── index.html
-├── style.css
-├── script.js
-├── manifest.json
-├── service-worker.js
-├── cockroach.png
-├── dead-cockroach.png
-├── slipper.png
-├── background.mp3
-├── squash.mp3
-└── icons/
-├── icon-192.png
-└── icon-512.png
-
 ## 🧩 PWA Support
 
 - The game includes a `manifest.json` and a `service-worker.js` to support offline access and installation.
