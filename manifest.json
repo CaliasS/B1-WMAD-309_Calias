@@ -1,0 +1,22 @@
+{
+    "name": "Kill the Cockroaches!",
+    "short_name": "CockroachGame",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#eaffea",
+    "theme_color": "#2f7a3e",
+    "orientation": "portrait",
+    "icons": [
+      {
+        "src": "icons/icon-192.png",
+        "sizes": "300x300",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icon-512.png",
+        "sizes": "600x600",
+        "type": "image/png"
+      }
+    ]
+  }
+  
